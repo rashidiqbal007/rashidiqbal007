@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rashid Iqbal</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 <img align = "right" width = "400" alt = "coding" src = "https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76119130d186eabd543eedd6ab7e43babf0bef1a3ef9&rid=giphy.gif&ct=g">
 
