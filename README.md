@@ -7,16 +7,23 @@
   <img src="https://komarev.com/ghpvc/?username=rashidiqbal007&label=Profile%20views&color=0e75b6&style=flat" alt="rashidiqbal007" />
 </p>
 
-- 🔭 Currently building **cutting-edge LLM pipelines and GenAI systems** at [Vyro.ai](https://vyro.ai) — powering real-world AI apps.
-- 🧠 Focused on mastering **Transformer architectures**, **LoRA fine-tuning**, and **multi-agent systems** for creative AI workflows.
-- 📚 Revisiting ML foundations: stats, classical ML, DL theory — leveling up for interviews & long-term growth.
-- 🌍 Actively exploring **Germany migration** and remote roles at companies building serious AI.
-- 🎥 Building a **personal brand** in AI through short-form content and AI coaching (coming soon).
-- 💬 Ask me about **LLMs, Stable Diffusion, Python, PyTorch, HuggingFace, GenAI infra**.
-- 💼 All of my projects live at: [github.com/rashidiqbal007](https://github.com/rashidiqbal007?tab=repositories)
-- 📝 I regularly share insights on [LinkedIn](https://www.linkedin.com/in/full-stackengineer/)
-- 📫 Reach me: **rashidiqbalf16@gmail.com**
-- 📸 Fun fact: I’m a hybrid athlete who loves fitness and photography — [@rashid_iqbal007](https://www.instagram.com/rashid_iqbal007/)
+🔭 Currently building cutting-edge LLM pipelines and GenAI systems at Vyro.ai — powering real-world AI apps.
+
+🧠 Specializing in Transformer architectures, LoRA fine-tuning, and multi-agent systems for next-gen creative AI workflows.
+
+📚 Sharpening foundations in statistics, classical ML, and deep learning theory for long-term mastery.
+
+🎥 Building a personal brand through AI content and coaching (coming soon).
+
+💬 Ask me about LLMs, Stable Diffusion, Python, PyTorch, HuggingFace, GenAI infra.
+
+💼 My work lives here: github.com/rashidiqbal007
+
+📝 I share insights on LinkedIn
+
+📫 Let’s connect: rashidiqbalf16@gmail.com
+
+📸 Fun fact: I’m a hybrid athlete into fitness, tech, and photography — @rashid_iqbal007
 
 ---
 
